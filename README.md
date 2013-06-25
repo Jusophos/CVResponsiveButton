@@ -11,11 +11,11 @@ The CVResponsiveButton class provides the possibility to define a highlight colo
 
 ## License ##
 
-The code is licensed under MIT.
+The code is licensed under the MIT License.
 
 ## Copyright ##
 
-Writte by Richard Jung <r.jung@jungit.com>.
+Written by Richard Jung <r.jung@jungit.com>.
 
 ## Example ##
 
@@ -23,12 +23,12 @@ Providing an example here:
 
 @[WAITING FOR LINK]
 
-Some example screenshots & video:
+Some example screenshots & a video:
 
 ![Sample 1](https://github.com/Jusophos/CVResponsiveButton/raw/master/screenshots/cvresponsivebutton_screenshot_1.png "Sample 1")
 ![Sample 2](https://github.com/Jusophos/CVResponsiveButton/raw/master/screenshots/cvresponsivebutton_screenshot_2.png "Sample 2")
 
-![Sample video](https://github.com/Jusophos/CVResponsiveButton/raw/master/screenshots/cvresponsivebutton_video.png "Sample video")
+![Sample video](https://github.com/Jusophos/CVResponsiveButton/raw/master/screenshots/cvresponsivebutton_video.mp4 "Sample video")
 
 ## Installation ##
 
@@ -53,18 +53,20 @@ or create it manually
 	button.highlightBackgroundColor = [UIColor redColor];
 	[button setTitle:@"Test" forState:UIControlStateNormal];
 
+	// ...
+
 ## Options ##
 
-You have to options
+You have two options
 
-### CVResponsiveButton.highlightBackgroundColor ###
+### HighlightBackgroundColor ###
 
-You can set the backgroundcolor of highlighting state (on touch).
+You can set the background color of highlighting state (on touch).
 
 	button.highlightBackgroundColor = [UIColor redColor];
 
-### CVResponsiveButton.fadingTime ###
+### FadingTime ###
 
-You can set a fading time. It will be the "responsive" time after a touch (fading out). Value in seconds
+You can set a fading time. It will be the "responsive" time after a touch (fading out). Value in seconds.
 
 	button.fadingTime = 0.7;
