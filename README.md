@@ -28,7 +28,7 @@ Some example screenshots & a video:
 ![Sample 1](https://github.com/Jusophos/CVResponsiveButton/raw/master/screenshots/cvresponsivebutton_screenshot_1.png "Sample 1")
 ![Sample 2](https://github.com/Jusophos/CVResponsiveButton/raw/master/screenshots/cvresponsivebutton_screenshot_2.png "Sample 2")
 
-![Sample video](https://github.com/Jusophos/CVResponsiveButton/raw/master/screenshots/cvresponsivebutton_video.mp4 "Sample video")
+https://github.com/Jusophos/CVResponsiveButton/raw/master/screenshots/cvresponsivebutton_video.mp4
 
 ## Installation ##
 
