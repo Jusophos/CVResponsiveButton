@@ -21,7 +21,7 @@ Written by Richard Jung <r.jung@jungit.com>.
 
 Providing an example here:
 
-@[WAITING FOR LINK]
+https://github.com/Jusophos/CVResponsiveButtonExample
 
 Some example screenshots & a video:
 
